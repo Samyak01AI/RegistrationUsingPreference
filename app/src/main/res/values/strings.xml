@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegistrationUsingPreference</string>
+    <string name="registration">Registration</string>
+</resources>
